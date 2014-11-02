@@ -1,0 +1,246 @@
+Curious, anybody experienced with pushing the limits of the Facebook Graph API? Lets talk!
+guys, how do you 3D print a bump key?
+I forgot who, but someone in this group once said that you can eat powdered foods with chopsticks and use your computer at the same time. Thanks to you I was successfully able to play a game of DotA and eat Cheetos at the same time. My thanks go out to you ^_^
+If you are not accepted into RHH, a better place for you might be Wankathon Wankers! We talk about major funding drone oculuses and our vertically integrated hot startup buzzfeed angels at YC.
+How do you face rejection for that dream internship or job? Well, I write an article. This might not be software or a world-changing idea, but have at me. https://medium.com/@jasonchiu/how-rejection-drives-me-fd85b9ee057c TL;DR Rejection is something we'll face no matter how good we are, use it as motivation. :)
+How do the popular IRC channels avoid spam and remain a solid resource for programmers though inflated with users?
+Hi All, Can any of the hackers in/from SF recommend a good place to code?
+Bill Gates' mugshot is the default profile picture in Outlook 2010... http://arstechnica.com/information-technology/2010/09/bill-gates-staring-back-at-you-from-outlook-2010/
+I need spotlight to integrate with wolfram alpha. Someone get it done.
+that awkward moment when a program you made deletes everything on your computer
+What's the difference between an on-site interview and an over-the-phone interview, other than location? On a related note, if anyone here has ever has an on-site interview with MongoDB or has interned there, please PM me!
+YHack rn. 1/6 of consumed pizzas
+How many people link to your GitHub with less than 10 commits? (I just saw someone do this on their personal site)
+Why can't I vote for an Open Source AI yet?
+Hey I am designing a simple programming language for an independent study class this year. Does anyone have an idea of a problem I could fix/make better with a simple programming language. A general language would be too large a project so a language for a specific situation would be more interesting.
+I personally think that they teach way too much math garbage in our computer science curriculum. They should scrap it all and focus on memes and funding. I personally think that memes and computers are the same thing anyway
+Anyone know any good books or coursera courses to learn code in 30 seconds or less?
+The #hacksetoftheday: http://setmine.com/?play=759 Deadmau5 vs. Richie Hawtin at SXSW 2013 Doesn't get much better than these two titans. Who here produces?
+I feel like there's something missing here: https://en.wikipedia.org/wiki/MLH
+Anyone know any good ways to meet technical co-founders for a project who best case live in LA and slightly worse but still great who live in the bay area. HS or College aged would be preferable.
+The campaign is back, if you missed it before! :) http://teespring.com/ncwit-hoodie2
+Hey I was wondering if you guys have any examples of those websites where there's a phone and then the screen inside the phone is swiped left (or right)?
+What's the difference between an on-site interview and an over-the-phone interview, other than location? On a related note, if anyone here has ever has an on-site interview with MongoDB or has interned there, please PM me!
+Huh... where have I seen this before?...
+For those of you who started startups, how did you get funding?
+New thread time! What's your favorite bleeding-edge technology / language/ framework whatever!
+repost from another group: Calling all ECMAScript 6 hackers! Can you solve this? We all know how difficult problems of managing asynchronous calls in JS is. When we try to reason about it in a linear fashion, issues manifest themselves in all JS code. Fortunately we've been given promises (a deferred result, essentially) which alleviated a lot of the stress. Now in ES6 we can truly deal with async code in a linear fashion with generators, but what about putting them together? https://gist.github.com/rafkhan/d5c7ff95be115292f528
+Hey HH, I'm going to be helping out at an International UnConference in NYC next weekend called StartupBus Accelerate! StartupBus is a crazy cross-country hackathon literally on a bus. Come out to the UnConference and meet all of the awesome people behind it and learn some hackathon and startup pro-tips. /cc Xavier Denis 60% discount for HH! https://subaccelerate.eventbrite.com/?discount=mlh
+I have 5 Google Domains invites if anyone's interested!
+F6BA3C1E163CE2EA86F886C7C1124F4E49A29388855932F33A9C0505AB74DA1E9641C4C3C1E0 hmu baes
+Anyone in here have experience with godaddy's cPanel interface ? I have to upload a client project to his hosting account, and can't for the life of me find the DB connection strings.
+What are your favourite Yosemite/2014 OSX Apps? Edit (Preemptive): Yes i'm a Linux user, don't preach as i'm the Choir :P
+Who's at Money 20/20?
+This might be a stupid question, but if someone is asking me for a site mockup, are they referring to a Photoshopped design or a html/css wireframe?
+What's the deal with Facebook on Tor? If you have to log in to a service using a user name and password after which you assume a persistent real-world identity, it's not anonymous any way, is it?
+I think Google Hangout's website had a redesign, yay or nay? http://www.google.com/hangouts/
+What according to you would be the best tools to develop webapps?
+Why do companies keep using and emphasizing "machine learning" in their job and technology descriptions?
+Is Stack Overflow in read only mode for everyone else?
+How many commits did you make during Hacktoberfest? I got to 132.
+The overdue article that almost turned to vapor because of me being a perfectionist. https://medium.com/@ccbello/about-the-upcoming-hour-of-code-9caa8314c751 Special thanks to Daniel C. Eckert (not mentioned by medium at the bottom).
+ok guys.....where are the pythonistas????? there ruby, node and even freaking functional!!! lets makes a group for python!!!!
+Register for PyCon 2015!!! Do it!!! Apply for financial aid if u think u cant afford it.....but its really freaking worth it!!! https://us.pycon.org/2015/
+not a joke, actually awesome
+Do you guys think it would be beneficial for Favorites on Twitter to be searchable?
+ok pythonistas, wannabe pythonistas, gods of python, noobs of python, plz add urself to HH: Python. Lets get the minimum 100 members by end of day :) https://www.facebook.com/groups/721736427908410/
+Do programmers learn best from reading / listening or hacking / implementing?
+I'm looking to get into electronics, and hardware. Thoughts on this as a starter kit (It's $99)? http://docs.spark.io/shields/#spark-maker-kit
+Someone should make a teespring for Canadians. 10$ shipping is too much
+Hey guys, I spent the past several several months trying to build a better experience for using Facebook on the Mac. The app I created is called Current, and it launched on the Mac App Store yesterday! I'd love to get some feedback on how to make it better! If you'd rather not pay the $1.99, I have 5 promo codes set aside for you guys, so let me know if you'd like one. :) http://currentformac.com
+Does anyone who has/had the HTC One V ever run into this problem before? The screen/body from the left side of the phone just popped up suddenly, but the touchscreen still works perfectly fine! Haven't used it in months, and I just checked it today to find this happen to it :S
+What's everyone's Twitter handle? We can follow each other and have a small hackathon community there too. Please comment your Twitter handles :)
+Shameless self promotion here. This summer I received a small grant to start a business so I decided to stock up on open source stickers since the only other major competitor is Unix Stickers and they ship from Italy, for $4 shipping, and I thought that I could get BETTER quality stickers and sell them for a CHEAPER price. Shipping is $1.50 across North America, and stickers are $2.50CAD each (15% cheaper). Same size, better quality. If you've ever come across the Github Stickers, they're vinyl and weather resistant like those. I'm still looking to increase stock, so feel free to give me any suggestions. Yes you can purchase with both Bitcoin & Dogecoin. http://opensourcemerch.com/
+Gmail with Microsoft Exchange support. Christmas came early :)
+Has anybody here had experience with Hired.com? I received the following response: "We have reviewed your profile, and our marketplace doesn't yet have enough of the right opportunities to ensure that we can find you your next job given your skill set. We’ll keep your profile on hand, and as we expand our employer base, we’ll be sure to notify you when we have companies looking to hire people with your strengths."
+undefined
+Can I export a collection from the Postman app for chrome?
+Life's deepest question: HackSC or HackCC?
+What is your favorite interview question for technical/coding round ? And why ?
+What traits are/should you be looking for in your first full-time opportunity after graduation?
+I'm in the process of putting together an all-day unconference for HS Hackers in NYC this December and I need your help organizing it! If you're interested in getting involved, please check out (and edit) this wiki: https://github.com/hshackers/ClawsConf/wiki As of right now, we need help finding a venue so we can attract more sponsors and open (free) registration as early as possible! More details will be coming in the next couple weeks.
+Google Maps on Halloween #cute
+Is there a chrome extension that saves your changes to the css/html and javascript across the site?
+Hey guys! Recently I suggested to my Computer Science Club teacher that we should host a Local Hack Day. He loved the idea, and he’s trying to get it approved with the admin team…but it’s proving very difficult. I’m not sure if they’re wrongly turned off by “hack” or some other reason. I go to a virtual High School that serves all over Pennsylvania, and if the event is approved, it would most likely be held at their main Harrisburg office. He said that since this is unlike any of the other events the school does, they’re a bit hesitant. Any advice / ideas? I know there are other HS students who are facing similar problems.
+Ari Ramdial and I co-founded WearHacks and we are coming to San Francisco (sept. 30 to Nov. 1st) for the AngelHack showcase. We would love to meetup with fellow HH'ers in SF!!
+Hey HH family! Hope you're all having a Happy Halloween. I'm working to improve the rental process and would really appreciate it if you could please fill out this quick survey. Thanks a lot!
+Thomas Millar and I are having an impromptu hackathon tonight. Hop into IRC and join us. We'll be in #hackathonhackers on Freenode. If you don't use IRC, the easiest way to get started is by making an account on http://irccloud.com It'll keep you connected to the server, and hide all of the icky 80s design decisions behind nice UX. Hell, if we get at least five people working on projects over the 8 hours, I'll send $5 worth of Bitcoin to the hacker behind my favourite project.
+Shot glasses and socks at Yhack!
+We have to use Java swing to make a dungeon crawler in my cs class :( What's the best place to learn how to use swing?
+A group of engineering students at my school are building a solar-powered car, and they're looking for programmers who will be "in charge of designing and building an onboard computer system that will electronically control and monitor different parts of the car", and who will "build a diagnostics application that will display data from the sensors to the driver via a touch-screen interface". What are the languages and technologies necessary to create something like this?
+Hey guys! So I'm looking more into developing for Android and stuff, and I want to be able to test apps on my phone, except I have an IPhone 5. Should I buy an Android phone just for that? Which one? Since this will not be my main phone at all, cheaper is better, as long as it can run current versions of Android well :P (not a big android guy here, idk much) Thanks!
+From where does one purchase a Richard Stallman wig?
+Best way to learn iOS app design for complete beginners?
+Has anyone made/used a tool that unlikes all of those stupid pages that spam dumb articles? You know, like the pages you liked back when you were a dainty 7th grader.
+Happy Halloween from:
+Hehe, so Treehouse uses Namecheap in their tutorials i.snag.gy/rMtJm.jpg
+Just out of curiosity, what was the first hackathon you attended?
+This was a funny post https://medium.com/conquering-corporate-america/11-tricks-to-get-software-engineers-to-sort-of-respect-you-334590b2339d
+Can't stop! Won't stop! We don't take breaks from hacking! Bay BitHack - The First Collegiate Bitcoin Hackathon, AppHack, and Design & Hack are around the corner and just joined our season! #AlwaysBeCoding http://bit.ly/ZuVIEZ
+Happy Halloween from the HackUCI team!
+Product Hunt Hackathon winners are up. Big congrats to: 1st - Gregory Koberger - Produck Hunt, 2nd - Dave Fontenot + Aaron Landy - Moves.io, 3rd - Product Fund (Viktor Charypar, Jon Sharratt, and Albert Still) Erik Torenberg, Ryan Hoover, can you tell us about the judging process / what your favorite hacks were? Were there any squeekers, landslides, or upsets?
+Thought experiment: How many posts / how much evidence must a person provide to convince the average, non-tech savvy person that actually there are some very nasty and scary things going on in the world of technology and, more importantly, that they should care?
+Ahhhh NC.me (our free domains for students initiative) is on Product Hunt. Upboats? <3
+Please help Justin!
+A bad week for space: http://www.spacenews.com/article/launch-report/42391spaceshiptwo-destroyed-in-test-flight-accident
+HH Rubyists and Railers subgroup anyone?
+I have a dream of putting a hackathon at every high school in this nation. If you want to mentor at a high school hackathon near your university, comment the name of that high school on this post. HackerFund is going to make it happen!
+The most interesting part of this is that Facebook brute-forced "facebookcorewwwi.onion". Can someone more knowledgeable about Tor let me know if that means they, or someone else, can also brute-force (e.g.) "silkroad6ownowfk.onion" and serve a hidden service for that? How would Tor reconcile two different hidden services competing for the same url?
+LOL. (comments on 9gag)
+This code should still work for www.gdcnext.com next week ..let me know if you are interested in attending ,in the area and or want to hook up
+New Subgroup for Rubyists and Railers HH Ruby https://www.facebook.com/groups/HHRuby/ If you need help with Rails, found an awesome Sinatra tutorial or just want to talk about the awesomeness of Ruby come on over. :)
+Who's ready for some Money 20/20 in Vegas?!
+In the movie "The Fifth Estate", what is the name of the program/distro that Julian and Daniel are using? http://imgur.com/a/Kjs5c
+The HH community has given us a lot of great feedback on Namecheap's Education Program and I'm super stoked to announce these new features: 1) A visualizer to see what people are registering in realtime: https://nc.me/visualizer 2) We now allow you to return to nc.me and register one of every extension. Previously, if you grabbed a free .me, you couldn't come back and register other domains. Now you can! 3) We added .club domains for 99¢ (yep, $0.99) Stay tuned for another announcement next week. Hint: Indian Ocean.
+Hey guys, as a fellow caffeine addict i am trying to figure out what drives people to drink coffee and red bull rather than trying alternatives! I recently launched MatchaBar in NY. I'm trying to connect with the hacker community to see why more hackers havent tried matcha! Matcha worked better for me cause: -extended release caffeine, 70mg per cup (coffee is a bit higher, 80-110), but it binds to the antioxidents in the tea and is released over 3 hours -10 x antioxidents as a cup of green tea, kept me from getting sick when I was pulling all nighters! Have been talking to NY gaming hackers who have been coming by the shop, wanted to hear if you'd be interested in trying our product, or having us sponsor a Hackathon!!!
+Who's ready for Yhack?!
+Just started using IFTTT. What are some of your favorite/must need recipies?
+Can someone pls build something smart enough to hide clickbait from my newsfeed & timeline?
+This group will probably know-- What's the url of the site where some SV dev decided to track all of his exercise/nutrition/etc stuff? It's like a really pretty website so
+I'm not sure if this has been brought up, and I'm sure you have probably already thought of the idea, but virtual mentors for physical hackathons? I think this would be useful for smaller schools that don't have the funding to get people out.
+You're all so excited about Google Inbox that it's taken over the group! So that people can talk about other stuff, please post all giveaways in HH Free Stuff (http://bit.ly/hhfreestuff) or HS Offers (http://bit.ly/hsoffers). Thanks!
+Working on a hack for live video streaming from a webcam. I'll let you guys test it out (only works on desktop gchrome right now). It's a live stream of a oscillating fan from my apartment. I'll leave it up for about 30 mins. Let me know further ideas. I'll probably build authentication for it soon. Thanks! http://media.grantspence.com:8080/consume/first
+Just received the PennApps travel reimbursement <3
+What packages are good for graphs (both iOS and android)?
+Pretty cool/spooky web vulnerability that was disclosed at Black Hat Europe this month. Be careful what kinds of links you're clicking, even if it's a "trusted" site, you might get bad results. http://blog.spiderlabs.com/2014/10/reflected-file-download-the-white-paper.html TL;DR: 1) downloaded files inherit trust from the site they're downloaded from. 2) sometimes, user input is included in the downloaded file. 3) if an attacker can control that user input, he can influence that portion of the file with malicious content, and the file will inherit the trust of the site it's from. 4) in some cases, where things work out correctly, this lets the attacker execute code with stolen trust.
+Help Needed! My main account Mathew Pregasen got this message (hence the reason I couldn't post from that account) and it's a mess. No where on the internet can I find support for this, and I have zero zero zero clue how this could have happened. Really big issue because I manage 12-13 subgroups of the publication I work for and I can't post or comment etc in any of them - any Facebook individuals here that can help? I sent an appeal the moment I got it but still zero response. Like, is this even legit?
+WHOA. Gamechanger?
+I unfollowed Hackathon Hackers today, which means the posts won't be in my news feed. I really like it here, but it was drowning out my real friends to an incredible degree. I can't believe facebook has only binary options here... either I get flooded with posts or I get 0 of them. If you work at FB, now or in the future, pitch the idea to allow for manual control. I would have gladly set it to 30% instead of 0%. /rant
+I need quick help on this.. assignment due soon, don't have time to figure out the makefile errors Basically, could someone please show a way to compile 3 .cpp files into executables: a.cpp b.cpp c.pp into executables a b and c I'm getting an error of multiple mains when I tried a generic makefile
+to people that have worked with Parrot AR drones -- what does it mean when the charger of the battery constantly blinks red?
+After a long night (see Github commit log ;_; ), registration for MountainHacks is officially up! It is 1.0, very minimal, so if you try to register and something goes wrong, let me know asap! thanks http://mountainhacks.com/
+Anyone know of a website that works in the political system. Basically tracking the politicians stands on certain topics along with how often they actually keep there word. Trying to bridge the gap between politics and technology.
+Check out my buddy's project to create a collaborative hackers' ecosystem - contribute! https://docs.google.com/a/volo.io/spreadsheets/d/1yKiQkRGa0NK10d6lmB5Sl19W18BbDoiTXuf5Fmotxv0/edit#gid=539523535
+#FrankCashProblems
+Open-sourced my advanced Django project template filled with best practices from books, blog posts, and personal experience. It's heavily opinionated and optimized for speed, security, and scale, battle-tested at many hackathons I'll be around to answer any questions about it, feel free to try it out and submit any issues :) https://github.com/imkevinxu/django-kevin
+undefined
+"When someone promises you turnkey anonymity and failsafe protection from spies, make like that guy on The Walking Dead and reach for your crossbow. Mass surveillance is a vivid expression of raw power and control. Hence what ails society is fundamentally a political problem, with economic and technical facets, such that safeguarding civil liberties on the Internet will take a lot more than just the right app." http://cryptome.org/2014/10/fbi-breaks-crypto.pdf
+Did a quick search and couldn't find anything. Who uses slack at work over email? Pros/Cons? How did the transition happen? I'm thinking of bringing it up to the boss.
+Thoughts on building simple cross-platform apps in 2014? Is Phonegap worth it now?
+"The first great conflict over cryptography and state power happened in the 1990s. In one corner were cryptographers equipped with subtle math, digital technologies, and new ideas. In the other were the Clinton and its National Security Agency (NSA), which sought to maintain and extend the federal government's control over cryptography. They struggled over the concept that cryptography could be classified as munitions . . ." http://reason.com/archives/2013/03/12/the-second-great-crypto-war
+Decided to do a simple lab assignment for class in Swift because why not. Learning it while I do the lab, but my main question is whether or not there is an easy to get get input from the user using Swift or if I would have to take an Objective-C approach (don't know Objective-C)? The reason I'm asking is because I'm using xcrun swift from the Terminal to compile it.
+Forbes listed this as one of the best internships of 2015 LAST DAY to apply if anyone is interested in working with startups!!!! kpcbfellows.com/apply
+Hey all I'm wondering if any of you guys can help me with something. I'm trying to make an app that makes calls to the Twitter API. Do I have to set up a back end to make and process these calls or can all of it be done using a fronted framework like Angular? Thanks in advance :)
+Very interesting read!
+Seriously, I just read this and it's awesome.
+Hi HH! What are the coolest startups right meow? ps - happy cat day!
+Anybody worked with http://cylonjs.com/ and Firebase?
+Best way to set up NumPy? (Mac)
+What do you guys use as a Linux desktop? I need a good(-looking) window manager before I can move, every UI people say is "beautiful" is pretty ugly IMO... (don't say Elementary OS, when they release a less buggy version maybe)
+Okay, I bought a new android phone and searched quite a bit for that post about android apps to have on a new phone that was a here a while ago, and now I absolutely can't find it. Can anyone fish out that old post, or if not, recommend any good apps for email etc. on android? Thanks.
+Just a reminder for those who signed up for UofT Hacks before they pushed the event back - the pre-registration is now up. If you've registered before they pushed the date back, you can sign up through the pre-reg right now and basically be guaranteed a spot :) Hurry! It ends soon. EDIT: linky https://uofthacks.com/
+Wrote a series of posts for the Ordr.in developer blog last week on how to get started with the API! This shit is finally up so check it out. It is pretty much a summary of what everyone asks me at hackathons when trying to figure out how everything works. Also I got away with throwing a Chrono Trigger reference somewhere in there, so that's pretty dope. http://ordr.in/blog/2014/10/30/how-the-hell-do-i-use-the-ordrin-api
+I can't there hasn't been a thread here on the Microsoft Band yet. One of my classmates from the University of Michigan invented this! Let this be a lesson that you CAN make a difference even at a young age in a major corporation!
+If any of you have Smash4 for 3DS and Twitter, join http://friendcode.me made by our very own Kyle Johnson
+undefined
+Google <3
+The moment you realize getting a new laptop would mean losing all your favorite stickers...
+CodeDay is approaching! This would be a fantastic companion before the competition begins on November 8. Recommend it if you like it!
+HEY HACKERS! I'll be LIVETWEETING Y-Hack starting tomorrow! Follow to get all the updates! If you're going to be there too, tweet me your wacky photos and hack updates to be RTd (or use #yhack, but it's less likely I'll see it that way) https://twitter.com/arielle_van
+Is there any tool for Linux Distros that will allow me to take a snapshot of the processes running (plus like how much CPU % each is using) once my CPU reaches a certain %?
+Html5 is *officially* ready. http://www.w3.org/TR/html5/
+Hey, anyone want a ticket to Web Summit? Friend has one available at half price, I could connect you. (I'm also looking for a place to couchsurf or split a hotel room.)
+Streaming Torrents. This is glorious http://joker.org/
+Not sure how to feel about this.
+http://fuckingfunctionsyntax.com
+Hey Everybody! .Wearable World is partnering with San Francisco International Airport (SFO) to put on a new type of hackathon all around the "connected airport". The hackathon will take place November 17th-18th, and the finalists will be pitching on stage at DEMO 2014 on November 20th in front of tons of VC's, Angel Investors, and Business Development Professionals. Click the link below for more info and to RSVP if interested. Hope to see a ton of you there! http://bit.ly/1wC1hOl
+Who can relate? "Hackathon Developer Gets Development Environment Working With Two Whole Hours To Go"
+undefined
+I built http://moves.io this past weekend at Product Hunt. It's a chrome extension that helps you hustle. Instantly get any startup founder's email with one click. That's just the start. What should I build next?
+undefined
+anyone here study abroad for CS? Trying to figure out what universities and programs might be the best to consider for a study abroad next fall.
+Who is organizing Penn Apps?
+Hey guys, join our hack-a-thon in Austin, Texas and Madison, Wisconsin to create apps for the developing world. Winning team get SXSW Interactive badges!!!
+So I don't do web dev (android dev tho), but need to make a website. Could anyone give me a brief tutorial on how to set up bootstrap on heroku? Can provide Google inbox invite for your help :)
+Is there anyway I can nominate someone for a dribbble invite? I'm not a designer but I have a awesome friend who is and I think he definitely deserves it
+As suggested by Timotius Sitorus, I am currently trying to get beta users for an app that I am a co-founder of. It's currently iOS 8+ only. The app basically allows users to swap items they no longer want for items they do want with other users in their area. You can post an item you'd like to swap, search items, and if you find something you like, you can request a swap. If the request is accepted, a place and time is set for both users by one of the users to meet and swap their items. Afterwards, both users can communicate through and in-app messaging system. If you're interested, just enter your email where it says on the website and I'll send you an invite! One person complained that the app crashed for them after Facebook sign-in but it's worked for everyone else, so that's one thing to look out for. Here's the link to the where you enter your email: http://www.myswapp.com
+Hi guys I am considering looking for a technical internship in US in summer 2015 as a J-1 visa exchange visitor. But I have several questions regarding it (mainly the process). I will be glad if anyone who has earlier been interned in US as a J-1 visitor can answer it. By the way if you are also looking for an internship in US as a foreigner like me, message me. I think we can help each-other
+Round 2 in 1 hour! Interviewer: Twilio's Rob Spectre Interviewees: Diane + Jeremy Topic: Stacks, Queues, Trees, Graphs Tune in at 5pm EST here: http://www.youtube.com/watch?v=O4_glDLK29Y
+What's the best way of getting Beta users that aren't people you know? (so not family, friends, classmates)? Can anyone share their experiences?
+On the topic of sub/subsub groups - HH functional programming anyone?
+Who has experience with TestComplete? What are your thoughts on it?
+Are there any chrome extensions to break or even illustrate the "filter bubble"? Filter Bubble is a concept to describe a phenomenon in which websites use algorithms to predict what information a user may like to see based on the user's location, search history, etc.
+Inspired by another post, 2 questions I was asked in my Microsoft interview today. (PM position) Design a card scanner for the blind. (Like what is used to get into buildings) that can not only let them scan in, but also locate the scanner. The second question was to design the UX of a 12hr game for kids ages 7-11 that guaranteed they make an account afterwards. Would love to hear your answers / thoughts :)
+Our latest Huffington Post article! We're empowering the African continent and developing world with technology! http://www.huffingtonpost.com/maya-horgan/texas-hackers-to-fight-eb_b_6069490.html
+Hi! I am starting android development and wanted to know how to create compelling UI.
+What's the difference between developer and programmer?
+http://www.phailed.me/2014/10/0x5f400000-understanding-fast-inverse-sqrt-the-easyish-way/ == Understanding Fast Inverse Sqrt The Easy(ish) Way == I remember that the fast inverse square root and the magical constant 0x5f3759df came up here about like a months ago. One of the things I found lacking in the explanations out there of how the constant came to be was the problem that everyone seemed too focused on finding either the optimal constant or justifying its correctness and error properties to develop on the actual discovery of the constant itself. I've been obsessed with this problem for nearly 5 years now and the one thing that's always bugged me the most was trying to answer the "where" of the problem: "where did 0x5f3759df come from?", so I set out to look for those answers myself. I think I've came up with a rough sketch of what happened including answers (with pretty high certainty) of: 1. what the first version of this algorithm looked like (0x5f400000) 2. what the second version probably looked like (0x5f376xxx, using maximum as the metric for optimization) 3. how the final constant came to be (0x5f3759xx, using the same optimization above but after one iteration of newton's method) The intuition behind the discovery of these three constants is presented, however I didn't explain why I knew for certain that carmack or whoever used maximum error metric/L-infinity norm as the measure of optimality. This I explained in the follow up on the r/compsci thread (http://www.reddit.com/r/compsci/comments/2kp7r1/0x5f400000_fast_inverse_sqrt_the_easy_way/clntugn). The gist of the argument is that the sequence of L-p norms converges weakly to the maximum error metric (under the lens of the optimal magic constant), and it turned out that within the sum of 2000th power measure is 0x5f3759df optimal, which is an extremely unlikely norm for someone to use, and the closest humanly reasonable norm is the infinity norm.
+I might be the contrarian in this situation, but Tim Cook's coming out isn't a big deal. However I love the acceptance he's getting instead of being chastised
+Hey guys, this wasn't done at a Hackathon or anything. But here's my first game, a clone of Tron. http://rileedesign.com/projects/tron/
+what hackathons are coming up in the Winter/Spring season beginning Jan?
+Planning to throw an awesome High School hackathon in SoCal(OC area) - call it HackSoCal. Around ~500-1000 people. Got good help from Dave and Shrav, but looking to talk to more people who have thrown Hackathons in what to expect, how to pitch to sponsors, and more advice in general. Msg me up or comment below. Thanks.
+To the bros ..thoughts ? http://tacit.livejournal.com/588807.html
+THIS IS THE BEST WAY TO START THE YEAR! #Hackathon!!!!!!! If you can make it, definitely make it, definitely worth the trip.
+Hey guys. I've finally had it with all the galaxy S5 bloatware. What's your favorite custom rom for android(and why)? So far I've tried cyanogen and paranoid android.
+http://www.theguardian.com/world/2014/oct/29/hungarians-protest-internet-tax-plan-orban
+Many of us can relate.
+(1) Should I upgrade to Yosemite? and (2) does it break anything?
+I'm a founder at Cribspot (www.cribspot.com). We're thinking about hacking together an app that will allow hackers to find places to crash while attending hackathons at other schools. The simplest version of what I'm thinking would involve hackers that attend a school where a hackathon is hosted to post a couch, air mattress, etc.. Hackers traveling to the hackathon can then book those "beds" in advance. Obviously this isn't for those who forego sleep entirely, but my thought is that this could be a cool way to make incoming hackers feel more comfortable. Do people think this would be useful?
+Got this error on OS X, what does this mean?
+undefined
+i'm over #fuckitshipit. why not #awesomeshipit? (h/t Holly Tiwari)
+Can anyone recommend solid resources for Apple Watch App development?
+I'm insanely excited to announce that Nick Quinlan will be joining the Major League Hacking team as the full-time Commissioner of the League starting in mid-November. If you’ve ever run into Nick at a hackathon, it is as clear to you as it is to us that he cares deeply about our mission of supporting student hackers all over the world and has given his heart and soul to our community over the last few years. We're lucky to have him joining our team. https://news.mlh.io/nick-quinlan-joins-major-league-hacking-commissioner-10-29-2014
+What are your favorite hackathon sites in terms of design and UI?
+http://blog.amasty.com/developers-horrors-happy-halloween/ GIFtastic responses.
+Alright, I have 2 invites for Inbox by Google to give away. I don't want anything, unless you want to give me something (domain coupons? amazon money? a job?!) First guy and first girl get it.
+If a corporate hackathon has this in their official rules, does that mean they're allowed to steal your idea? Right to Use: By participating in this Contest the participant hereby grants permission and authorization to [company] North America, Inc., and its owners, affiliates, and contractors, including but not limited to [some other company] (collectively, the "Companies"), to record, videotape, photograph, distribute, copyright, release, sell, transcribe, transfer, publish, display and use, for any promotional, educational, print or electronic publication or trade advertising purposes, my photograph(s), voice, and/or performance and all ideas, concepts, business practices, techniques, text, quotes, illustrations, and/or artwork (collectively, "Content") provided by the participant during the Contest.
+favorite sftp/ftp client for mac?
+Does anyone know if HackFSU will be doing reimbursements ?
+For those experienced with django, do u guys have good resources for deploying django on heroku (apart from what is provided by heroku themselves)? also what is the best way to ensure development code is in sync with production code? esp if sqlite3 is used in development code and postgre is used in production.
+Besides a hacker, what are you? [SERIOUS] Take away the coding, the internships, the hackathons - what's your non-hacking side like? Are you a musician, an athlete, a writer? (implying there are things other than hacking)
+Hey guys, I've been working on a service with mobile (iOS) and web-facing frontends that will help donators to nonprofits get personalized updates on the impact their donations have. We'd like functionality to find/suggest organizations, donate to those organizations within the app, and then get multimedia updates on what the organization has been doing. Prices negotiable. Message me with a portfolio and contact details. Thanks! Also, here is our current website for more info.: http://www.connectandcare.org/
+So, Friday is 10.31. Who's dressing up as Siri?
+just got to ycombinator w/ Ryan Hoover and Shrav Mehta. mad hackers. come say hey if you're joining! also comment here if you want to be invited to the public slack for the hackathon. lots of gifs, cats, hacks, emojis, and raps
+Anyone I know going to Bay Bithack? Looking forward to meeting & educating myself more on Bitcoin!
+For Halloween, have a video that will make you scream!
+If in the Baltimore, MD area: www.eventbrite.com/e/third-baltimore-hackathon-tickets-13312276377
+Finally. Http://www.wtfpl.net
+We are building the perfect hacker profile. Who's the best designer you know? Tag them. We need their feedback.
+Opinions ?
+http://www.howtogeek.com/200334/windows-10-includes-a-linux-style-package-manager-named-oneget/ Did not expect.
+What do you guys recommend is the best place to host a NodeJS/ExpressJS backend and why?
+https://blog.twitter.com/ibm First IBM and Apple, what are your thoughts on the IBM and Twitter partnership announced today?
+Any body got info to http://www.commander3d.com
+What are your thoughts on including a clause in your employment that says everything you make must be open source/copyleft?
+Does anyone else see anything wrong with this? From the Koding hackathon rules/judging criteria. "Geolocation of the team"??
+Is anyone not using a client side framework?
+Hey guys! So I'm a sophomore who only started really coding last year when I got into college. I'm looking into summer internships right now but it's really competitive and full of people with rich backgrounds and experiences... So my question is, what are some start ups/low-key companies with good summer internship programs? Where was your first internship and how was it?
+This is pretty amazing: Cross-platform and plugs into variety of other services. Thoughts? http://www.theverge.com/2014/10/29/7118533/microsoft-health-band-hub-for-fitness-data
+Who has used Bing MAP Api in a rails app? I need help. Edit: What's your favorite Maps API (Bing or Google)? why?
+this is the greatest thing... ever...
+Who here climbs? I just had the pleasure of messaging Joseph Song who is another climber here in HH. I want to know who else is out there in HH land that climbs?
+I need to redesign a website to look more modern. I plan to go the trendy route which is the medium.com style. What is this style called? And whats the easiest way for me to build a website in this manner with out much web Dev experience? (I am an Android dev)
+Ok listen to this: a website where anyone (not necessarily a programmer or anything) can post ideas for hacks (i.e. it would be nice to have an app to help me do blablabla....). Hacks would be sorted into categories (finance,gaming,organization etc) and hackers would have account and form teams. They could choose whatever they feel like developing, during a hackathon or not. Based on people's ratings, they gather points etc.... I don't know if this already exists. If not, it could provide great ideas for Hackathons or for developers in general.
+Does anyone have experience with Drupal themes? I have been provided with a graphic design of the site and will need to put it under Drupal 7 (the site needs to be responsive). I have web experience but have never done anything with Drupal. Based on the design, would it be more straightforward to create a theme from scratch or build a subtheme on top of something like Zen?
+Anyone have experience with the 1:1 mentoring programs such as Bloc and Talent Buddy? I'm working with a startup on developing web/mobile apps using a Javascript-based stack (Node.js, Ionic, Cordova, Angular, Mongo, Express, etc.). It seems like a great way to improve and validate the work I do. I like the idea of project-based learning since I'm already a decent programmer.
+Good day. I am trying to compile a list of hackathons that accept high school students. Could you help me find them? Thanks!
+I've never done a hardware hack before.. but im bored with life and need a hack idea.. I have the following toys to hand: RPi, Moga pro controller, nfc ring, ti-84 calculator, nexus 7, usb dvb-t receiver, couple of old dusty laptops, spare bluetooth/wifi dongles and all sorts of cabling + I can code. Any suggestions?
+undefined
+So recently I have started looking at meteor, over the next few days I plan on immersing myself in it and giving a talk at my schools sigweb (web dev club) meeting. If any of you happen to be in the long beach area this coming tuesday and want to talk meteor, feel free to stop by! https://www.facebook.com/events/1488419624756648/
+Not sure if I'm posting this in the right place, but desperately need help! Does anybody know how can images and files be recovered from MTP mode in an android device? I accidentally ended wiping everything on my phone and since it supports only MTP or PTP mode, I cannot use standard recovery software to retrieve it since it doesn't support Mass Media Storage.
+I had the pleasure of speaking with Avi Romanoff the other day about hardware / hackathon trends / finding a great team / CMU's steam tunnels.
+Anyone knows how to plot something that looks like a heat map from data points on a 2d surface using matlab?
+python has everything part 3
+http://huff.to/1p20AgG wut
+I know it's early, but this was too sp00ky not to share
+Anyone played around with GWT? Built the stock watched app last night and rather enjoyed it.
+https://www.youtube.com/watch?v=v3qGX3PNphw
+http://venturebeat.com/2014/10/27/microsofts-bing-beats-google-to-emoji-search/
+For all the android and responsive websites out there, check out Paranoid Android's new website. So nice. http://aospa.co/
+Come develop games at Stanford's Cardinal Game Jam this weekend! Prizes include a ~ $100K marketing budget for your winning game, dozens of hardware prizes, and more. When: Saturday November 1 at noon - Sunday November 2 at 4pm Where: 2627 Hanover Street, Palo Alto CA 94304 (StartX incubator) Register Now: www.thecardinalgamejam.com Looking for teammates or ideas? Looking for development ideas? Or just looking for food and fun? Come to our casual mixer this Thursday night to find teammates and see demos from our partners that will get you ready to jam. Make new friends and play some cards, dice or board games. When: Thursday, October 30 at 8pm Where: 2627 Hanover Street, Palo Alto (StartX incubator) Anyone is welcome to attend both events. Just bring your computer, toothbrush, and enthusiasm!
+GPA on the resume, or nah? I have a 3.0 overall and in major, am a computer engineer, looking for full time positions in the tech industry (Google, Microsoft, Super awesome startups, etc.), more specifically as a PM (but of course the main focus being working in an awesome industry).
+APPLY!
+With regard to what Doron Zehavi mentioned. The link below is the list of templates of modern website. The only thing I don't understand is, what does it really mean by look more modern? Anyone have ideas for "modern" website? I had suggested to put background music, but people thought it's more like the 90s :-(
+Anyone knows what is this error for? I created a pull request to Mixpanel-iPhone, but got this error on GitHub. The pull request is to resolve the implement Mixpanel into iOS project that uses Swift.
+THERE'S A SOYLENT OPEN SOURCE COMMUNITY. SIGN ME UP.
+undefined
+What kind of fun stuff/novelties to you like to see at hackathons? Video games? Lotteries + raffles? Things to troll with? Laser tag?
+Hey everyone! This Monday, a project called [reboot] went public to the students of UW. The goal of the [reboot] movement is to redefine hacking to what it originally was: the ability to take advantage of something in order to improve it. With this idea in mind, [reboot] is putting together the University of Waterloo's first all faculty hackathon! It will be open to all students regardless of faculty, skill level, or age, and will contain software, hardware, and artistic hacks. We are also working to include lab hacks and bio kits. Our long-term goal is to get a permanent hacker/maker-space at UW where any student will be able to go to bring their ideas to life. We are trying to [reboot] the hacker culture at UW, and foster a culture within UW where students can learn from and teach one and other. All skill-sets have something to offer, which is why we're focusing on the idea that hacking can be for any faculty, not just CS or Eng. We need your help to get this off the ground! The head organizing team (there are eight of us) have been working for a month to lay the groundwork, but we could use some help to really push this movement forward. Our first general meeting will be this Thursday at DC 1350 from 7:00pm; all students are welcome! If you're interested, join our Facebook group: https://www.facebook.com/groups/reboot.organizingteam/ [reboot] Organizing Team
+Hey, how does "Product Hunt" work? Is it just a site that crowdsources the newest hottest digital products? Or does it source these products in an automated/algorithmic way or does it source products in both ways?
+Mark Ormesher has inbox invites coming out of his ears. Top 8 jokes sent to his inbox gets them
+Hi, just wondering if anyone has written the CAT test before, or has any advice for writing it? I have to write it as part of the application process for an IBM internship. Also, any interview / application advice would be appreciated. Thanks!
+It's that time of the year again! PennApps 2015 winter applications are open! http://pennapps.com Too early to start discussing ideas?
+What websites apart from mhl do you use to find hackathons?
+I'm at Future of Web Apps (#fowa if you want to follow what's happening on Twitter) and gave a talk on Accessibility in the Browser. Check out the slides to GitHub! :) https://github.com/cassidoo/talks
+Facebook just announced that 2015 would be a significant investment year for them. What do you think their focus will be? http://qz.com/288458/facebook-just-said-something-that-sent-its-shares-plummeting/
